@@ -19,7 +19,7 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # ─── Config ───────────────────────────────────────────────
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = "8643426514:AAHnMtialwe8t8fuvW5BTlGzm45huTQe9Bg"
 
 if not BOT_TOKEN:
     log.error("BOT_TOKEN environment variable is not set.")
