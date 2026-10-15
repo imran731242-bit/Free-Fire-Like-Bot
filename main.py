@@ -57,7 +57,7 @@ def keep_alive():
 # ================================
 # CONFIGURATION
 # ================================
-TOKEN = 'MTUyNTgwNzI1MDg5NDA5NDQyNw.Gazv-a.iFvaP989TFepclUyPu7kN0hppVmPxSWLmSX9T8'
+TOKEN = 'MTUyNTgwNzI1MDg5NDA5NDQyNw.GR80hS.5qbLpxj4L9uNNUNYVsqcOLHB7b0UYGPb4Z5RCc'
 OWNER_ID = 1139336441927827587
 ADMIN_IDS = {1139336441927827587}
 BOT_NAME = "TITAN"
